@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Kutuphane">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Kutuphane" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Kutuphane" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/Kutuphane" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Kutuphane" recursive="false" type="SOURCES" />
+  </library>
+</component>
